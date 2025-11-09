@@ -1,5 +1,5 @@
 import streamlit as st
-import torch
+import torch==2.1.2
 import clip
 from PIL import Image
 import numpy as np
