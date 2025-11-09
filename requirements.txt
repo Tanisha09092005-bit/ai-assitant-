@@ -1,6 +1,10 @@
 streamlit
-torch==2.1.2
-torchvision==0.18.0
-clip-by-openai
+torch
+torchvision
+torchaudio
+ftfy
+regex
+tqdm
 Pillow
 numpy
+clip-anytorch
